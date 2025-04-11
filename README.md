@@ -1,5 +1,5 @@
 # COVID-19
-## Iniciamos el trabajo analizando un archivo .XLS con mas de 20 millones de filas y 50 columnas donde mi objetivo final es obtener insights para poder expersarlos en el tablero de control.
+## Iniciamos el trabajo analizando un archivo .XLS con mas de 12 millones de filas y 50 columnas donde mi objetivo final es obtener insights para poder expersarlos en el tablero de control.
 ### Realizando ETL en Pytohn hice uso de la librería de Pandas, luego Matplotlib y Seaborn para crear gráficos que me sean útiles a la hora de elaborar el dashboard.
 ### Por último utilicé el lenguane DAX en Power BI para la creación de métricas.
 ![Image](https://github.com/user-attachments/assets/53fd6f16-01ed-4882-b669-ef046bb5819a)
