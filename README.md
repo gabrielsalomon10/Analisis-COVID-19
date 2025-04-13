@@ -1,4 +1,5 @@
 # COVID-19
+### Proyecto sobre el impacto del COVID-19
 ### Iniciamos el trabajo analizando un archivo .XLS con mas de 12 millones de filas y 50 columnas donde mi objetivo fue limpiar la data y obtener información valiosa para obtener insights y poder expersarlos en el tablero de control.
 ### Realizando ETL en Pytohn hice uso de la librería de Pandas, luego Matplotlib y Seaborn para crear gráficos que me sean útiles a la hora de elaborar el dashboard.
 ### Por último utilicé el lenguane DAX en Power BI para la creación de métricas.
