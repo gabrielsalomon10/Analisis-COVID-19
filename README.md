@@ -1,7 +1,7 @@
 # COVID-19
 ## Proyecto sobre el impacto del COVID-19
-
-### El análisis comenzó con la exploración del dataset proporcionado por Ingeniería de Datos. Este contenía 12,216,057 registros y 50 columnas en formato CSV, lo que facilitó su manipulación respecto al dataset original de 21 GB. También se recibió un archivo complementario con información detallada sobre las variables seleccionadas, útil para la preparación y limpieza de los datos.
+### Inicio:
+El análisis comenzó con la exploración del dataset proporcionado por Ingeniería de Datos. Este contenía 12,216,057 registros y 50 columnas en formato CSV, lo que facilitó su manipulación respecto al dataset original de 21 GB. También se recibió un archivo complementario con información detallada sobre las variables seleccionadas, útil para la preparación y limpieza de los datos.
 
 ### Carga y verificación inicial de datos:
 Se utilizó Python para leer el archivo y comprobar la coherencia del dataset con las especificaciones iniciales.
